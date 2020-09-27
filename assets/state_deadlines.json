@@ -1,0 +1,308 @@
+{
+    "AL": {
+        "in_person": 15,
+        "by_mail": 15,
+        "postmarked": true,
+        "online": 15
+    },
+    "AK": {
+        "in_person": 30,
+        "by_mail": 30,
+        "postmarked": true,
+        "online": 30
+    },
+    "AZ": {
+        "in_person": 29,
+        "by_mail": 29,
+        "postmarked": true,
+        "online": 29
+    },
+    "AR": {
+        "in_person": 30,
+        "by_mail": 30,
+        "postmarked": true,
+        "online": null
+    },
+    "CA": {
+        "in_person": 15,
+        "by_mail": 15,
+        "postmarked": true,
+        "online": 15
+    },
+    "CO": {
+        "in_person": 0,
+        "by_mail": 8,
+        "postmarked": false,
+        "online": 8
+    },
+    "CT": {
+        "in_person": 7,
+        "by_mail": 7,
+        "postmarked": true,
+        "online": 7
+    },
+    "DE": {
+        "in_person": 24,
+        "by_mail": 24,
+        "postmarked": true,
+        "online": 24
+    },
+    "DC": {
+        "in_person": 0,
+        "by_mail": 21,
+        "postmarked": true,
+        "online": 21
+    },
+    "FL": {
+        "in_person": 29,
+        "by_mail": 29,
+        "postmarked": true,
+        "online": 29
+    },
+    "GA": {
+        "in_person": 29,
+        "by_mail": 29,
+        "postmarked": true,
+        "online": 29
+    },
+    "HI": {
+        "in_person": 30,
+        "by_mail": 30,
+        "postmarked": true,
+        "online": 30
+    },
+    "ID": {
+        "in_person": 25,
+        "by_mail": 25,
+        "postmarked": true,
+        "online": 25
+    },
+    "IL": {
+        "in_person": 27,
+        "by_mail": 28,
+        "postmarked": true,
+        "online": 16
+    },
+    "IN": {
+        "in_person": 29,
+        "by_mail": 29,
+        "postmarked": true,
+        "online": 29
+    },
+    "IA": {
+        "in_person": 10,
+        "by_mail": 15,
+        "postmarked": true,
+        "online": 10
+    },
+    "KS": {
+        "in_person": 21,
+        "by_mail": 21,
+        "postmarked": true,
+        "online": 21
+    },
+    "KY": {
+        "in_person": 29,
+        "by_mail": 29,
+        "postmarked": true,
+        "online": 29
+    },
+    "LA": {
+        "in_person": 30,
+        "by_mail": 30,
+        "postmarked": true,
+        "online": 20
+    },
+    "ME": {
+        "in_person": 0,
+        "by_mail": 21,
+        "postmarked": true,
+        "online": null
+    },
+    "MD": {
+        "in_person": 21,
+        "by_mail": 21,
+        "postmarked": true,
+        "online": 21
+    },
+    "MA": {
+        "in_person": 20,
+        "by_mail": 20,
+        "postmarked": true,
+        "online": 20
+    },
+    "MI": {
+        "in_person": 15,
+        "by_mail": 15,
+        "postmarked": true,
+        "online": 15
+    },
+    "MN": {
+        "in_person": 0,
+        "by_mail": 21,
+        "postmarked": true,
+        "online": 21
+    },
+    "MS": {
+        "in_person": 30,
+        "by_mail": 30,
+        "postmarked": true,
+        "online": null
+    },
+    "MO": {
+        "in_person": 27,
+        "by_mail": 27,
+        "postmarked": true,
+        "online": 27
+    },
+    "MT": {
+        "in_person": 0,
+        "by_mail": 30,
+        "postmarked": true,
+        "online": null
+    },
+    "NE": {
+        "in_person": 11,
+        "by_mail": 18,
+        "postmarked": true,
+        "online": 18
+    },
+    "NV": {
+        "in_person": 0,
+        "by_mail": 28,
+        "postmarked": true,
+        "online": 5
+    },
+    "NH": {
+        "in_person": 13,
+        "by_mail": 13,
+        "postmarked": false,
+        "online": null
+    },
+    "NJ": {
+        "in_person": 21,
+        "by_mail": 21,
+        "postmarked": true,
+        "online": null
+    },
+    "NM": {
+        "in_person": 28,
+        "by_mail": 28,
+        "postmarked": true,
+        "online": 28
+    },
+    "NY": {
+        "in_person": 25,
+        "by_mail": 25,
+        "postmarked": true,
+        "online": 25
+    },
+    "NC": {
+        "in_person": 25,
+        "by_mail": 25,
+        "postmarked": true,
+        "online": 25
+    },
+    "ND": {
+        "in_person": 0,
+        "by_mail": 0,
+        "postmarked": true,
+        "online": null
+    },
+    "OH": {
+        "in_person": 30,
+        "by_mail": 30,
+        "postmarked": true,
+        "online": 30
+    },
+    "OK": {
+        "in_person": 25,
+        "by_mail": 25,
+        "postmarked": true,
+        "online": null
+    },
+    "OR": {
+        "in_person": 21,
+        "by_mail": 21,
+        "postmarked": false,
+        "online": 21
+    },
+    "PA": {
+        "in_person": 15,
+        "by_mail": 15,
+        "postmarked": false,
+        "online": 15
+    },
+    "RI": {
+        "in_person": 30,
+        "by_mail": 30,
+        "postmarked": true,
+        "online": 30
+    },
+    "SC": {
+        "in_person": 30,
+        "by_mail": 30,
+        "postmarked": true,
+        "online": 30
+    },
+    "SD": {
+        "in_person": 15,
+        "by_mail": 15,
+        "postmarked": false,
+        "online": null
+    },
+    "TN": {
+        "in_person": 30,
+        "by_mail": 30,
+        "postmarked": true,
+        "online": 30
+    },
+    "TX": {
+        "in_person": 30,
+        "by_mail": 30,
+        "postmarked": true,
+        "online": null
+    },
+    "UT": {
+        "in_person": 14,
+        "by_mail": 30,
+        "postmarked": true,
+        "online": 7
+    },
+    "VT": {
+        "in_person": 0,
+        "by_mail": 0,
+        "postmarked": false,
+        "online": 5
+    },
+    "VA": {
+        "in_person": 22,
+        "by_mail": 22,
+        "postmarked": true,
+        "online": 22
+    },
+    "WA": {
+        "in_person": 0,
+        "by_mail": 8,
+        "postmarked": true,
+        "online": 8
+    },
+    "WV": {
+        "in_person": 21,
+        "by_mail": 21,
+        "postmarked": true,
+        "online": 21
+    },
+    "WI": {
+        "in_person": 7,
+        "by_mail": 21,
+        "postmarked": true,
+        "online": 20
+    },
+    "WY": {
+        "in_person": 14,
+        "by_mail": 14,
+        "postmarked": true,
+        "online": null
+    }
+}
